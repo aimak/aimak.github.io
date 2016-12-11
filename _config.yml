@@ -1,0 +1,27 @@
+github: [metadata]
+kramdown:
+input: GFM
+hard_wrap: false
+gems: [jekyll-paginate, jekyll-feed, jekyll-coffeescript, jekyll-paginate]
+
+# Site settings
+title: Developing stuffs.
+header-img: img/home-bg.jpg
+email: paul@renson.me
+copyright_name: Paul Renson
+description: "I'm an iOS developer"
+url: "https://renson.me"
+twitter_username: aimak
+github_username:  aimak
+email_username:  paul@renson.me
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
