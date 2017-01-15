@@ -5,7 +5,7 @@ hard_wrap: false
 gems: [jekyll-paginate, jekyll-feed, jekyll-coffeescript, jekyll-paginate]
 
 # Site settings
-title: Developing stuffs.
+title: Developing stuffs
 header-img: img/home-bg.jpg
 email: paul@renson.me
 copyright_name: Paul Renson
