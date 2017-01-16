@@ -41,4 +41,4 @@ Okay, so now you have everything set up to follow _discussions_ but programming 
 
 I strongly believe that one way to be better at one technology is … to be interested in other technologies. When you only read about the same topic over and over you'll probably end up reading the same kind of patterns, the same solutions to the same problems. When a developer has the curiosity to get out of his/her comfort zone and learn something totally different, this is when things get really interesting. You'll learn what kind of problems apply to which language, stack, technology and how they can be resolved. Even it does not seem to apply on your specific iOS issue, it will help eventually because you'll be tempted to apply a new solution to an old problem.
 
-And you, _"what do you read to get up to date with the state-of-the-art of iOS development ?"_
+And you, _what do you read to get up to date with the state-of-the-art of iOS development_ ?
